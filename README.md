@@ -1,1 +1,1 @@
-TinDog Starting Files
+This website was made by Maimi Hayashi by following the Udemy course taught by Angela Yu @ The London App Brewery. She offers complete coding bootcamps that introductory users can use to learn the fundamentals of coding.
